@@ -1,0 +1,16 @@
+C:\Users\Coletivo 3D\source\repos\SeriesApp\bin\Debug\net5.0\SeriesApp.exe
+C:\Users\Coletivo 3D\source\repos\SeriesApp\bin\Debug\net5.0\SeriesApp.deps.json
+C:\Users\Coletivo 3D\source\repos\SeriesApp\bin\Debug\net5.0\SeriesApp.runtimeconfig.json
+C:\Users\Coletivo 3D\source\repos\SeriesApp\bin\Debug\net5.0\SeriesApp.runtimeconfig.dev.json
+C:\Users\Coletivo 3D\source\repos\SeriesApp\bin\Debug\net5.0\SeriesApp.dll
+C:\Users\Coletivo 3D\source\repos\SeriesApp\bin\Debug\net5.0\ref\SeriesApp.dll
+C:\Users\Coletivo 3D\source\repos\SeriesApp\bin\Debug\net5.0\SeriesApp.pdb
+C:\Users\Coletivo 3D\source\repos\SeriesApp\obj\Debug\net5.0\SeriesApp.csproj.AssemblyReference.cache
+C:\Users\Coletivo 3D\source\repos\SeriesApp\obj\Debug\net5.0\SeriesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coletivo 3D\source\repos\SeriesApp\obj\Debug\net5.0\SeriesApp.AssemblyInfoInputs.cache
+C:\Users\Coletivo 3D\source\repos\SeriesApp\obj\Debug\net5.0\SeriesApp.AssemblyInfo.cs
+C:\Users\Coletivo 3D\source\repos\SeriesApp\obj\Debug\net5.0\SeriesApp.csproj.CoreCompileInputs.cache
+C:\Users\Coletivo 3D\source\repos\SeriesApp\obj\Debug\net5.0\SeriesApp.dll
+C:\Users\Coletivo 3D\source\repos\SeriesApp\obj\Debug\net5.0\ref\SeriesApp.dll
+C:\Users\Coletivo 3D\source\repos\SeriesApp\obj\Debug\net5.0\SeriesApp.pdb
+C:\Users\Coletivo 3D\source\repos\SeriesApp\obj\Debug\net5.0\SeriesApp.genruntimeconfig.cache

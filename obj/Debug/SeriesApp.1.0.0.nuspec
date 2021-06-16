@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SeriesApp</id>
+    <version>1.0.0</version>
+    <authors>SeriesApp</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Coletivo 3D\source\repos\SeriesApp\bin\Debug\net5.0\SeriesApp.runtimeconfig.json" target="lib\net5.0\SeriesApp.runtimeconfig.json" />
+    <file src="C:\Users\Coletivo 3D\source\repos\SeriesApp\bin\Debug\net5.0\SeriesApp.dll" target="lib\net5.0\SeriesApp.dll" />
+  </files>
+</package>
